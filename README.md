@@ -92,7 +92,7 @@ tb5_randomizetitle();
 <font size="5"><font color="white" face="courier new">Hai ini dia isi hatiku yang sesungguhnya</font>
 <br><font size="5"><font color="white" face="courier new">Selama ini ku hanya dapat diam dan berdoa kepada Yang Kuasa agar diri mu bisa bersamaku</font>
 <br><font size="5"><font color="white" face="courier new">Namun kali ini Aku ingin mengutarakannya</font>
-<br><font size="5"><font color="white" face="courier new">Mau ga jadi pacarku?!?</font>
+<br><font size="5"><font color="white" face="courier new">bahwa aku super hero?!?</font>
 <br><a href="https://api.whatsapp.com/send?phone=6283198529028&text=Ya%20aku%20Mau%20Terima"><input type="button" value="Yes I do" onclick="alert('Thanks yah udah mau trima aku apa ada nya');" style="font size="5"></a><><><><a href="https://api.whatsapp.com/send?phone=6283198529028&text=maaf%20aku%20nggabisa%20Terima"><input type="button" value=" Im sorry" onclick="alert('Baik lah kalau itu mau mu ^_^');" style="font size="5"></a>
 <br><br><br><hr color="red"><!-- Created By L3M4R1 -->
 <font size="4"><font color="white" face="courier new">("Thanks to:")</font>
@@ -127,7 +127,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " Mantap kan boy:*";
 
 var size = 15;
 
