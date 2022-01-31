@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<head><title>Hai vi</title>
+<head><title>Hai</title>
 <!-- Created By L3M4R1 -->
 <script>alert ('hai')
 alert ('Ini isi hatiku yang sesungguhnya')</script>
